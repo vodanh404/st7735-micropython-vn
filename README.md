@@ -34,14 +34,13 @@ Dựa trên công trình từ
 
 | TFT Board | Raspberry Pi Pin |
 |:--------:|:-------------:|
-| LED | 3v3(Out)|
 | SCK | GP10 |
 | SDA | GP11 |
 | AO/DC | GP16 |
 | Reset | GP17 |
 | CS | GP18 |
 | GND | GND |
-| VCC | VBUS 5V |
+| VCC | 3v3(Out)|
 
 ## Cài đặt
 Tải thư mục st7735 lên Raspberry Pi Pico của bạn.
