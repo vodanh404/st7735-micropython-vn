@@ -1,6 +1,6 @@
 # SPI TFT với thư viện trình điều khiển ST7735 cho Raspberry Pi Pico Micropython (hỗ trợ tiếng Việt)
 
-## Lòi cảm ơn
+## Lời cảm ơn
 Dựa trên công trình từ
 
 * [alastairhm](https://github.com/alastairhm)
