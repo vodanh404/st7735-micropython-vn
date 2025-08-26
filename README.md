@@ -3,7 +3,7 @@
 ## Lòi cảm ơn
 Dựa trên công trình từ
 
-* [alastairhm]([https://github.com/alastairhm])
+* [alastairhm](https://github.com/alastairhm)
 
 ## Mô tả
 
